@@ -45,7 +45,7 @@ Na janela de tempo entre uma versão e outra, os arquivos podem estar em quatro 
 
 Criando o repositório no GitHub, sem criar o README.md, teremos alguns comandos para fazer
 
-![Captura de tela 2023-06-14 153352.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e9d94b3-f7b8-4a8a-ad93-48000f35a834/Captura_de_tela_2023-06-14_153352.png)
+![criando repositório](https://github.com/selenitye/git/blob/main/criando-repositorio.png?raw=true)
 
 Já fizemos alguns ( init, add Readme, commit) e iremos fazer os outros que faltaram:
 
@@ -61,7 +61,7 @@ Já fizemos alguns ( init, add Readme, commit) e iremos fazer os outros que falt
 
 ## 🧬 Clonando um repositório para nossa máquina
 
-![Captura de tela 2023-06-14 154523.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f596c34-5aae-46bc-a428-be28eef0199c/Captura_de_tela_2023-06-14_154523.png)
+![clonando repositório](https://github.com/selenitye/git/blob/main/clonando-repositorio.png?raw=true)
 
 em CODE, copiar a URL do repositório
 
@@ -73,14 +73,13 @@ Entre no repósitório dentro da sua máquina com `cd nomedapasta` e digite
 
 `code .` → abre o repositório no VSCODE e voce pode codar por lá
 
-![Captura de tela 2023-06-14 155715.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3595c63c-fecf-4920-8407-e5ef536a28be/Captura_de_tela_2023-06-14_155715.png)
+![vscode](https://github.com/selenitye/git/blob/main/vscode.png?raw=true)
 
 ## 🆙 Subindo um repositório para o GitHub
 
-  
+Para subir subir uma alteração de um repositório já existente, siga os passos:
 
-Na ordem, voce fará
-
+Na ordem, voce fará no GIT Bash
                                                                                
 `cd [nomedapasta]`  → entre na pasta
 
