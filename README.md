@@ -85,6 +85,6 @@ Na ordem, voce fará no GIT Bash
 
 `git status`  → veja o status e o que tem dentro da pasta
 
-`git add`  → `git commit -m "comentário"`  → `git push`  → Repositório add com sucesso ✌️
+`git add .`  → `git commit -m "comentário"`  → `git push`  → Repositório add com sucesso ✌️
 
 ***fim xx***
